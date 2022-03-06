@@ -1,7 +1,7 @@
 var points_total = 0;
 var points_inside = 0;
 
-for(var i = 0; i< 1000000; i++){
+for(var i = 0; i< 100000; i++){
   points_total++;
 
   var x = Math.random();
